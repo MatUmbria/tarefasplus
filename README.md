@@ -72,7 +72,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 ## 🌐 Deploy
 
 The project is hosted on Vercel:  
-👉 [Tarefas+ - Vercel Deploy](https://your-vercel-link.vercel.app)
+👉 [Tarefas+ - Vercel Deploy](https://tarefasplus-theta.vercel.app/)
 
 ---
 
